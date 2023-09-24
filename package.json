@@ -1,0 +1,27 @@
+{
+  "name": "zykaa",
+  "version": "1.0.0",
+  "description": "food ordering app",
+  "scripts": {
+    "start": "parcel -p 6002 index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "keywords": [
+    "reactjs",
+    "javscript",
+    "jsx",
+    "css"
+  ],
+  "author": "rashmi meena",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "dom": "^0.0.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
