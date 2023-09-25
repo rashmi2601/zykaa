@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "food ordering app",
   "scripts": {
-    "start": "parcel -p 6002 index.html",
+    "start": "parcel -p 1234 index.html",
     "build": "parcel build index.html",
     "test": "jest"
   },
